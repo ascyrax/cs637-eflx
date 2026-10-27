@@ -6,7 +6,7 @@ CS637 (IIT Kanpur) research-paper evaluation project. We re-implement, reproduce
 
 The paper keeps an electric-taxi fleet ready to cut its charging load when the grid issues a demand-response (DR) request, without dropping passengers. No code was released, so everything here is rebuilt from the paper's equations.
 
-**Video presentation:** [VIDEO LINK](https://example.com/replace-me) · **Slides:** [SLIDES LINK](https://example.com/replace-me)
+**Slides:** [eFlx_presentation.pdf](slides/eFlx_presentation.pdf) · **Video presentation:** coming soon · **Full report:** [REPORT.md](REPORT.md)
 
 ## Team
 | Name | Roll no. | Role | Contribution |
