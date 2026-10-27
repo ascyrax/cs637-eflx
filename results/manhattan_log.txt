@@ -1,0 +1,37 @@
+warm-up done
+day  0 nolim eflx   flex  137.65 MWh  DR charge    0.00 MWh  served 100.00%  357s
+day  0 limit eflx   flex  110.82 MWh  DR charge    0.00 MWh  served 100.00%  431s
+day  4 limit eflx   flex  131.61 MWh  DR charge    0.00 MWh  served 100.00%  442s
+day  4 nolim eflx   flex  117.47 MWh  DR charge    0.00 MWh  served 100.00%  456s
+day  8 limit eflx   flex  148.96 MWh  DR charge    0.00 MWh  served 100.00%  394s
+day 12 nolim eflx   flex  137.41 MWh  DR charge    0.00 MWh  served 100.00%  416s
+day 12 limit eflx   flex  139.20 MWh  DR charge    0.00 MWh  served 100.00%  432s
+day  8 nolim eflx   flex  140.60 MWh  DR charge    0.00 MWh  served 100.00%  485s
+day  0 limit oracle flex   82.20 MWh  DR charge    0.00 MWh  served 100.00%  278s
+day 16 limit eflx   flex  135.98 MWh  DR charge    0.00 MWh  served 100.00%  401s
+day  4 limit oracle flex   92.63 MWh  DR charge    0.00 MWh  served 100.00%  283s
+day 16 nolim eflx   flex  135.91 MWh  DR charge    0.00 MWh  served 100.00%  505s
+day 12 limit oracle flex   91.60 MWh  DR charge    0.00 MWh  served 100.00%  287s
+day  8 limit oracle flex   83.25 MWh  DR charge    0.00 MWh  served 100.00%  291s
+day 16 limit oracle flex   96.74 MWh  DR charge    0.00 MWh  served 100.00%  285s
+day  0 limit r2i    flex   69.17 MWh  DR charge    0.00 MWh  served 100.00%  235s
+day  0 nolim tes    flex   41.58 MWh  DR charge    0.00 MWh  served 100.00%  233s
+day  0 nolim r2i    flex   45.66 MWh  DR charge    0.00 MWh  served 100.00%  236s
+day  4 limit r2i    flex   75.79 MWh  DR charge    0.00 MWh  served 100.00%  254s
+day  4 nolim r2i    flex   50.70 MWh  DR charge    0.00 MWh  served 100.00%  443s
+day  8 limit r2i    flex   66.98 MWh  DR charge    0.00 MWh  served 100.00%  527s
+day  4 nolim tes    flex   42.89 MWh  DR charge    0.00 MWh  served 100.00%  533s
+day  8 nolim r2i    flex   50.36 MWh  DR charge    0.00 MWh  served 100.00%  607s
+day  8 nolim tes    flex   46.21 MWh  DR charge    0.00 MWh  served 100.00%  627s
+day 12 limit r2i    flex   65.02 MWh  DR charge    0.00 MWh  served 100.00%  653s
+day 12 nolim r2i    flex   42.77 MWh  DR charge    0.00 MWh  served 100.00%  655s
+day 12 nolim tes    flex   44.34 MWh  DR charge    0.00 MWh  served 100.00%  667s
+day 16 limit r2i    flex   72.17 MWh  DR charge    0.00 MWh  served 100.00%  601s
+day 16 nolim r2i    flex   36.97 MWh  DR charge    0.00 MWh  served 100.00%  565s
+day 16 nolim tes    flex   43.52 MWh  DR charge    0.00 MWh  served 100.00%  567s
+day  0 limit trc    flex   82.20 MWh  DR charge    0.00 MWh  served 100.00%  478s
+day  4 limit trc    flex   92.63 MWh  DR charge    0.00 MWh  served 100.00%  465s
+day  8 limit trc    flex   83.25 MWh  DR charge    0.00 MWh  served 100.00%  438s
+day 12 limit trc    flex   91.60 MWh  DR charge    0.00 MWh  served 100.00%  444s
+day 16 limit trc    flex   96.74 MWh  DR charge    0.00 MWh  served 100.00%  403s
+saved results/manhattan.json

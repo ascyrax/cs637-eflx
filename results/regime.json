@@ -1,0 +1,1 @@
+{"fleet": 3200, "why": "smallest probed fleet where the best open-loop plan still charges during DR (6.6 MWh); 13000/8000/6000/5000/4000 all reach 0 MWh"}

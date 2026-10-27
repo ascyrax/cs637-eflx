@@ -1,0 +1,20 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Raw NYC TLC data: downloaded by scripts/get_nyc_data.py (~60 MB)
+data/yellow_tripdata_*.parquet
+data/taxi_zone_lookup.csv
+
+# Warm-up caches, rebuilt automatically by eflx/manhattan.py
+results/*.pkl
+results/*_partial.json
+
+# The paper is copyrighted; link to it instead of redistributing it
+eFlx.pdf
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

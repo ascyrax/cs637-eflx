@@ -1,0 +1,26 @@
+21 of 21 tasks to run
+provisioning done
+trc   base eps=0.000  DR charge   18392.8 kWh  served   14274.7  109s
+eflx  base eps=0.000  DR charge   18421.0 kWh  served   14270.6  113s
+r2i   base eps=0.000  DR charge   18353.9 kWh  served   14277.6  150s
+trc   down eps=0.000  DR charge   15779.2 kWh  served   14274.6  212s
+trc   down eps=0.025  DR charge   11058.3 kWh  served   13675.0  225s
+trc   down eps=0.075  DR charge    7626.5 kWh  served   12761.9  199s
+trc   down eps=0.050  DR charge    9151.4 kWh  served   13159.3  209s
+trc   down eps=0.100  DR charge    6441.9 kWh  served   12435.0  196s
+r2i   down eps=0.000  DR charge   15699.7 kWh  served   14277.5  240s
+r2i   down eps=0.025  DR charge   11257.0 kWh  served   13735.2  290s
+r2i   down eps=0.050  DR charge    9143.7 kWh  served   13149.6  238s
+r2i   down eps=0.100  DR charge    6049.4 kWh  served   12309.9  216s
+r2i   down eps=0.075  DR charge    7672.1 kWh  served   12731.4  251s
+eflx  down eps=0.000  DR charge   15559.4 kWh  served   14270.5  213s
+eflx  down eps=0.025  DR charge   11024.4 kWh  served   13678.0  224s
+eflx  down eps=0.100  DR charge    6104.8 kWh  served   12365.3  206s
+eflx  down eps=0.075  DR charge    7631.5 kWh  served   12771.0  227s
+eflx  down eps=0.050  DR charge    9171.4 kWh  served   13185.0  251s
+trc   up   eps=0.000  DR charge   18475.4 kWh  served   14273.4  284s
+eflx  up   eps=0.000  DR charge   18522.9 kWh  served   14269.6  210s
+r2i   up   eps=0.000  DR charge   18438.5 kWh  served   14276.3  345s
+TRC   baseline 18.39 MWh | ε=0%: 2.61 MWh (served 100.0%), ε=2.5%: 7.33 MWh (served 95.8%), ε=5%: 9.24 MWh (served 92.2%), ε=7.5%: 10.77 MWh (served 89.4%), ε=10%: 11.95 MWh (served 87.1%) | upward 0.08 MWh
+R2I   baseline 18.35 MWh | ε=0%: 2.65 MWh (served 100.0%), ε=2.5%: 7.10 MWh (served 96.2%), ε=5%: 9.21 MWh (served 92.1%), ε=7.5%: 10.68 MWh (served 89.2%), ε=10%: 12.30 MWh (served 86.2%) | upward 0.08 MWh
+eFlx  baseline 18.42 MWh | ε=0%: 2.86 MWh (served 100.0%), ε=2.5%: 7.40 MWh (served 95.8%), ε=5%: 9.25 MWh (served 92.4%), ε=7.5%: 10.79 MWh (served 89.5%), ε=10%: 12.32 MWh (served 86.6%) | upward 0.10 MWh

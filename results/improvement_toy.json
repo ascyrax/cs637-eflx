@@ -1,0 +1,218 @@
+[
+ {
+  "day": 0,
+  "start": 2,
+  "policy": "TRC",
+  "flex_kwh": 766.1840899637593,
+  "dr_charge_kwh": 1153.8159100362407,
+  "served": 0.9999999772553542,
+  "wall_s": 3.3089070320129395
+ },
+ {
+  "day": 0,
+  "start": 2,
+  "policy": "eFlx",
+  "flex_kwh": 1197.6133999947585,
+  "dr_charge_kwh": 722.3866000052415,
+  "served": 0.9999999658830311,
+  "wall_s": 3.843325138092041
+ },
+ {
+  "day": 0,
+  "start": 2,
+  "policy": "P-eFlx (normal prior)",
+  "flex_kwh": 1366.0827175158888,
+  "dr_charge_kwh": 553.9172824841111,
+  "served": 0.9999999620922567,
+  "wall_s": 4.129724979400635
+ },
+ {
+  "day": 0,
+  "start": 2,
+  "policy": "P-eFlx (normal, hedged rho=0.1)",
+  "flex_kwh": 1344.9710209315106,
+  "dr_charge_kwh": 575.0289790684894,
+  "served": 0.9999999583014825,
+  "wall_s": 6.6535820960998535
+ },
+ {
+  "day": 0,
+  "start": 2,
+  "policy": "P-eFlx (uniform prior)",
+  "flex_kwh": 1366.0827175158893,
+  "dr_charge_kwh": 553.9172824841107,
+  "served": 0.9999999620922567,
+  "wall_s": 3.9258103370666504
+ },
+ {
+  "day": 0,
+  "start": 2,
+  "policy": "Oracle",
+  "flex_kwh": 1165.0505734432793,
+  "dr_charge_kwh": 754.9494265567206,
+  "served": 0.9999999810461285,
+  "wall_s": 3.785364866256714
+ },
+ {
+  "day": 0,
+  "start": 4,
+  "policy": "TRC",
+  "flex_kwh": 802.9313705261218,
+  "dr_charge_kwh": 1117.0686294738782,
+  "served": 0.9999999809509581,
+  "wall_s": 3.2023191452026367
+ },
+ {
+  "day": 0,
+  "start": 4,
+  "policy": "eFlx",
+  "flex_kwh": 1223.4285764911353,
+  "dr_charge_kwh": 696.5714235088648,
+  "served": 0.9999999587270764,
+  "wall_s": 4.5514442920684814
+ },
+ {
+  "day": 0,
+  "start": 4,
+  "policy": "P-eFlx (normal prior)",
+  "flex_kwh": 1417.642408228986,
+  "dr_charge_kwh": 502.35759177101414,
+  "served": 0.9999999365031946,
+  "wall_s": 6.475682020187378
+ },
+ {
+  "day": 0,
+  "start": 4,
+  "policy": "P-eFlx (normal, hedged rho=0.1)",
+  "flex_kwh": 1392.487158068197,
+  "dr_charge_kwh": 527.5128419318031,
+  "served": 0.9999999396780348,
+  "wall_s": 7.544703006744385
+ },
+ {
+  "day": 0,
+  "start": 4,
+  "policy": "P-eFlx (uniform prior)",
+  "flex_kwh": 1408.670105780341,
+  "dr_charge_kwh": 511.32989421965897,
+  "served": 0.9999999460277154,
+  "wall_s": 5.752686023712158
+ },
+ {
+  "day": 0,
+  "start": 4,
+  "policy": "Oracle",
+  "flex_kwh": 1122.5464214685123,
+  "dr_charge_kwh": 797.4535785314877,
+  "served": 0.9999999714264374,
+  "wall_s": 6.324365854263306
+ },
+ {
+  "day": 0,
+  "start": 6,
+  "policy": "TRC",
+  "flex_kwh": 869.6714505823422,
+  "dr_charge_kwh": 1050.3285494176578,
+  "served": 0.9999999830680653,
+  "wall_s": 6.029883861541748
+ },
+ {
+  "day": 0,
+  "start": 6,
+  "policy": "eFlx",
+  "flex_kwh": 1266.9149791819073,
+  "dr_charge_kwh": 653.0850208180927,
+  "served": 0.9999999492041963,
+  "wall_s": 5.561697959899902
+ },
+ {
+  "day": 0,
+  "start": 6,
+  "policy": "P-eFlx (normal prior)",
+  "flex_kwh": 1499.9894420911369,
+  "dr_charge_kwh": 420.0105579088631,
+  "served": 0.9999999125183383,
+  "wall_s": 6.8155739307403564
+ },
+ {
+  "day": 0,
+  "start": 6,
+  "policy": "P-eFlx (normal, hedged rho=0.1)",
+  "flex_kwh": 1388.5773131084893,
+  "dr_charge_kwh": 531.4226868915107,
+  "served": 0.9999999153403272,
+  "wall_s": 4.435610294342041
+ },
+ {
+  "day": 0,
+  "start": 6,
+  "policy": "P-eFlx (uniform prior)",
+  "flex_kwh": 1402.8968158025536,
+  "dr_charge_kwh": 517.1031841974461,
+  "served": 0.9999999181623164,
+  "wall_s": 3.571237087249756
+ },
+ {
+  "day": 0,
+  "start": 6,
+  "policy": "Oracle",
+  "flex_kwh": 1270.134045902995,
+  "dr_charge_kwh": 649.865954097005,
+  "served": 0.999999974602098,
+  "wall_s": 1.3598430156707764
+ },
+ {
+  "day": 0,
+  "start": 8,
+  "policy": "TRC",
+  "flex_kwh": 974.113353578083,
+  "dr_charge_kwh": 945.886646421917,
+  "served": 0.99999998451632,
+  "wall_s": 1.3131511211395264
+ },
+ {
+  "day": 0,
+  "start": 8,
+  "policy": "eFlx",
+  "flex_kwh": 1284.818570420976,
+  "dr_charge_kwh": 635.1814295790241,
+  "served": 0.9999999329040535,
+  "wall_s": 1.925774097442627
+ },
+ {
+  "day": 0,
+  "start": 8,
+  "policy": "P-eFlx (normal prior)",
+  "flex_kwh": 1550.7009383135503,
+  "dr_charge_kwh": 369.2990616864497,
+  "served": 0.9999999019366935,
+  "wall_s": 2.801038980484009
+ },
+ {
+  "day": 0,
+  "start": 8,
+  "policy": "P-eFlx (normal, hedged rho=0.1)",
+  "flex_kwh": 1504.3472607784038,
+  "dr_charge_kwh": 415.6527392215964,
+  "served": 0.9999998967754669,
+  "wall_s": 4.182713985443115
+ },
+ {
+  "day": 0,
+  "start": 8,
+  "policy": "P-eFlx (uniform prior)",
+  "flex_kwh": 1584.9805282994835,
+  "dr_charge_kwh": 335.0194717005167,
+  "served": 0.9999998941948536,
+  "wall_s": 3.1735401153564453
+ },
+ {
+  "day": 0,
+  "start": 8,
+  "policy": "Oracle",
+  "flex_kwh": 1497.8077055785172,
+  "dr_charge_kwh": 422.19229442148264,
+  "served": 0.99999996903264,
+  "wall_s": 1.6250638961791992
+ }
+]

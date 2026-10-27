@@ -1,0 +1,191 @@
+[
+ {
+  "policy": "r2i",
+  "variant": "base",
+  "eps": 0.0,
+  "day": 0,
+  "charge_kwh": 1884.1511947625304,
+  "served": 178.93183718545725,
+  "wall_s": 0.2829599380493164
+ },
+ {
+  "policy": "trc",
+  "variant": "base",
+  "eps": 0.0,
+  "day": 0,
+  "charge_kwh": 1920.0,
+  "served": 178.93183718545723,
+  "wall_s": 0.3124990463256836
+ },
+ {
+  "policy": "eflx",
+  "variant": "base",
+  "eps": 0.0,
+  "day": 0,
+  "charge_kwh": 1920.0,
+  "served": 178.93183718545725,
+  "wall_s": 0.17490673065185547
+ },
+ {
+  "policy": "trc",
+  "variant": "down",
+  "eps": 0.0,
+  "day": 0,
+  "charge_kwh": 1050.3285494176578,
+  "served": 178.9318311854572,
+  "wall_s": 0.3687469959259033
+ },
+ {
+  "policy": "trc",
+  "variant": "down",
+  "eps": 0.025,
+  "day": 0,
+  "charge_kwh": 896.8993695763372,
+  "served": 174.45853525582078,
+  "wall_s": 0.35418105125427246
+ },
+ {
+  "policy": "trc",
+  "variant": "down",
+  "eps": 0.05,
+  "day": 0,
+  "charge_kwh": 804.916280722689,
+  "served": 169.98523932618434,
+  "wall_s": 0.33100414276123047
+ },
+ {
+  "policy": "trc",
+  "variant": "down",
+  "eps": 0.075,
+  "day": 0,
+  "charge_kwh": 736.5640572189197,
+  "served": 165.51194339654793,
+  "wall_s": 0.3197801113128662
+ },
+ {
+  "policy": "trc",
+  "variant": "down",
+  "eps": 0.1,
+  "day": 0,
+  "charge_kwh": 564.1473350728902,
+  "served": 161.03864746691153,
+  "wall_s": 0.30205583572387695
+ },
+ {
+  "policy": "r2i",
+  "variant": "down",
+  "eps": 0.0,
+  "day": 0,
+  "charge_kwh": 627.862445821927,
+  "served": 178.9318311854572,
+  "wall_s": 0.29654479026794434
+ },
+ {
+  "policy": "r2i",
+  "variant": "down",
+  "eps": 0.025,
+  "day": 0,
+  "charge_kwh": 486.40431253373436,
+  "served": 174.45853525582078,
+  "wall_s": 0.44859814643859863
+ },
+ {
+  "policy": "r2i",
+  "variant": "down",
+  "eps": 0.05,
+  "day": 0,
+  "charge_kwh": 411.32002895327616,
+  "served": 169.98523932618434,
+  "wall_s": 0.4813351631164551
+ },
+ {
+  "policy": "r2i",
+  "variant": "down",
+  "eps": 0.075,
+  "day": 0,
+  "charge_kwh": 312.82692918171904,
+  "served": 165.51194339654793,
+  "wall_s": 0.5795979499816895
+ },
+ {
+  "policy": "r2i",
+  "variant": "down",
+  "eps": 0.1,
+  "day": 0,
+  "charge_kwh": 119.32061336260591,
+  "served": 161.03864746691153,
+  "wall_s": 0.5597100257873535
+ },
+ {
+  "policy": "eflx",
+  "variant": "down",
+  "eps": 0.0,
+  "day": 0,
+  "charge_kwh": 653.0850208180927,
+  "served": 178.9318311854572,
+  "wall_s": 0.3420567512512207
+ },
+ {
+  "policy": "eflx",
+  "variant": "down",
+  "eps": 0.025,
+  "day": 0,
+  "charge_kwh": 504.2060619055954,
+  "served": 174.45853525582078,
+  "wall_s": 0.32061076164245605
+ },
+ {
+  "policy": "eflx",
+  "variant": "down",
+  "eps": 0.05,
+  "day": 0,
+  "charge_kwh": 390.39819737771484,
+  "served": 169.98523932618434,
+  "wall_s": 0.3361191749572754
+ },
+ {
+  "policy": "eflx",
+  "variant": "down",
+  "eps": 0.075,
+  "day": 0,
+  "charge_kwh": 226.13429035594834,
+  "served": 165.51194339654793,
+  "wall_s": 0.3128092288970947
+ },
+ {
+  "policy": "eflx",
+  "variant": "down",
+  "eps": 0.1,
+  "day": 0,
+  "charge_kwh": 126.34797369372892,
+  "served": 161.03864746691153,
+  "wall_s": 0.27849602699279785
+ },
+ {
+  "policy": "trc",
+  "variant": "up",
+  "eps": 0.0,
+  "day": 0,
+  "charge_kwh": 1919.9999999999998,
+  "served": 178.9318311854572,
+  "wall_s": 0.3249049186706543
+ },
+ {
+  "policy": "r2i",
+  "variant": "up",
+  "eps": 0.0,
+  "day": 0,
+  "charge_kwh": 1920.0,
+  "served": 178.9318311854572,
+  "wall_s": 0.29201698303222656
+ },
+ {
+  "policy": "eflx",
+  "variant": "up",
+  "eps": 0.0,
+  "day": 0,
+  "charge_kwh": 1920.0,
+  "served": 178.9318311854572,
+  "wall_s": 0.28900885581970215
+ }
+]

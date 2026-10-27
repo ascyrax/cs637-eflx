@@ -1,0 +1,39 @@
+day 0 start 50 TRC                              flex    2731.2  DR charge   23038.8  served 98.67%
+day 0 start 50 P-eFlx (normal prior)            flex    2724.4  DR charge   23013.3  served 98.68%
+day 0 start 52 TRC                              reused from reproduction
+day 0 start 52 eFlx                             reused from reproduction
+day 0 start 50 P-eFlx (uniform prior)           flex    2666.9  DR charge   22827.1  served 98.75%
+day 0 start 50 eFlx                             flex    2992.8  DR charge   22741.4  served 98.66%
+day 0 start 52 Oracle                           reused from reproduction
+day 0 start 50 Oracle                           flex    2346.2  DR charge   23423.8  served 98.80%
+day 0 start 54 TRC                              flex    2691.3  DR charge   18793.0  served 98.96%
+day 0 start 52 P-eFlx (normal prior)            flex    2616.9  DR charge   15746.1  served 98.85%
+day 0 start 52 P-eFlx (uniform prior)           flex    2575.0  DR charge   15539.1  served 98.91%
+day 0 start 54 eFlx                             flex    2926.5  DR charge   18585.2  served 98.95%
+day 0 start 54 P-eFlx (normal prior)            flex    2655.3  DR charge   18811.2  served 98.97%
+day 0 start 54 Oracle                           flex    1385.0  DR charge   20099.4  served 99.47%
+day 8 start 50 TRC                              flex    8554.9  DR charge   23865.4  served 93.14%
+day 0 start 54 P-eFlx (uniform prior)           flex    2599.1  DR charge   18616.8  served 99.02%
+day 8 start 50 P-eFlx (normal prior)            flex    8957.6  DR charge   23089.1  served 92.91%
+day 8 start 52 TRC                              reused from reproduction
+day 8 start 52 eFlx                             reused from reproduction
+day 8 start 50 Oracle                           flex    9052.1  DR charge   23368.2  served 92.55%
+day 8 start 50 eFlx                             flex    6812.0  DR charge   25469.5  served 93.95%
+day 8 start 52 Oracle                           reused from reproduction
+day 8 start 50 P-eFlx (uniform prior)           flex    7852.2  DR charge   24125.0  served 93.78%
+day 8 start 54 TRC                              flex    3633.1  DR charge   25073.5  served 95.37%
+day 8 start 52 P-eFlx (uniform prior)           flex    3674.0  DR charge   23229.7  served 95.06%
+day 8 start 52 P-eFlx (normal prior)            flex    3981.0  DR charge   22993.6  served 95.00%
+day 8 start 54 eFlx                             flex    2932.9  DR charge   25853.0  served 95.36%
+day 8 start 54 P-eFlx (normal prior)            flex    3719.8  DR charge   24842.9  served 95.36%
+day 8 start 54 Oracle                           flex    5701.5  DR charge   23005.2  served 95.43%
+day 8 start 54 P-eFlx (uniform prior)           flex    3539.3  DR charge   24966.1  served 95.42%
+
+DR-window charging (kWh), mean over days [0, 8]; lower is better
+policy                                start 50    start 52    start 54      mean
+TRC                                    23452.1     19773.4     21933.3   21719.6
+eFlx                                   24105.5     19665.6     22219.1   21996.7
+P-eFlx (normal prior)                  23051.2     19369.9     21827.1   21416.0
+P-eFlx (uniform prior)                 23476.1     19384.4     21791.4   21550.6
+Oracle                                 23396.0     18823.9     21552.3   21257.4
+saved results/improvement_manhattan.json

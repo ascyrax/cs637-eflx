@@ -1,0 +1,17 @@
+sanity OK: 100 taxis conserved over 15 slots, served 354.4/354.4 requests
+
+=== provisioning WITH charging limit ===
+policy    flex kWh  DR charge  prov charge  idle mi   wait  served %  time s
+trc          836.6     1083.4       1920.0     28.5  220.7    100.00    16.5
+r2i         1137.7      668.4       1760.0     30.5  368.5    100.00    19.8
+eflx        1208.0      712.0       1792.1     30.7  285.6    100.00    36.7
+oracle      1358.8      561.2       1893.3     28.1  269.4    100.00    23.7
+
+=== provisioning WITHOUT charging limit ===
+policy    flex kWh  DR charge  prov charge  idle mi   wait  served %  time s
+trc          836.6     1083.4       1920.0     28.5  220.7    100.00    15.9
+r2i         1124.9      581.4       1920.0     36.1  360.5    100.00    19.9
+tes         1136.3      581.6       1920.0     32.9  360.5    100.00    21.7
+eflx        1161.7      758.3       1572.2     30.7  296.6    100.00    32.6
+
+plot saved to results/toy_fig8.png

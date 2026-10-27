@@ -1,0 +1,20 @@
+18 of 18 tasks to run
+fig11 trc   x=3  flex    2613.6 kWh  DR charge   15779.2 kWh  served 98.60%  733s
+fig11 trc   x=6  flex    2613.6 kWh  DR charge   15779.2 kWh  served 98.85%  733s
+fig11 trc   x=5  flex    2613.6 kWh  DR charge   15779.2 kWh  served 98.77%  733s
+fig11 trc   x=4  flex    2613.6 kWh  DR charge   15779.2 kWh  served 98.69%  734s
+fig11 eflx  x=3  flex    2810.7 kWh  DR charge   15562.6 kWh  served 98.59%  1256s
+fig11 trc   x=1  flex    2613.6 kWh  DR charge   15779.2 kWh  served 98.79%  690s
+fig11 trc   x=2  flex    2613.6 kWh  DR charge   15779.2 kWh  served 98.49%  692s
+fig11 eflx  x=1  flex    2610.5 kWh  DR charge   15759.0 kWh  served 98.79%  992s
+fig11 eflx  x=2  flex    2605.8 kWh  DR charge   15772.3 kWh  served 98.49%  1032s
+fig11 eflx  x=5  flex    2551.4 kWh  DR charge   15512.3 kWh  served 98.85%  1788s
+fig11 eflx  x=4  flex    3309.7 kWh  DR charge   15235.5 kWh  served 98.64%  1791s
+fig11 eflx  x=6  flex    2861.6 kWh  DR charge   15559.4 kWh  served 98.83%  1959s
+table1 trc   x=None  flex    2613.6 kWh  DR charge   15779.2 kWh  served 98.85%  594s
+table1 trc   x=0  flex    2410.0 kWh  DR charge   14189.3 kWh  served 94.08%  558s
+table1 trc   x=1  flex    2859.8 kWh  DR charge   15994.2 kWh  served 93.79%  636s
+table1 eflx  x=0  flex    2726.1 kWh  DR charge   13857.7 kWh  served 94.08%  1406s
+table1 eflx  x=None  flex    2861.6 kWh  DR charge   15559.4 kWh  served 98.83%  1661s
+table1 eflx  x=1  flex    2605.8 kWh  DR charge   16203.9 kWh  served 93.80%  1846s
+saved results/extras_manhattan.json

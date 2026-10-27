@@ -1,0 +1,23 @@
+warm-up done
+day  0 nolim eflx   flex    2.22 MWh  DR charge   15.06 MWh  served 99.11%  1273s
+day  0 limit eflx   flex    2.86 MWh  DR charge   15.56 MWh  served 98.83%  1290s
+day  8 nolim eflx   flex    4.05 MWh  DR charge   21.83 MWh  served 95.26%  1297s
+day  8 limit eflx   flex    3.35 MWh  DR charge   23.77 MWh  served 94.91%  1877s
+day 16 limit eflx   flex   27.16 MWh  DR charge    2.72 MWh  served 100.00%  1381s
+day 16 nolim eflx   flex   25.39 MWh  DR charge    2.77 MWh  served 100.00%  1390s
+day  0 limit oracle flex    3.92 MWh  DR charge   14.47 MWh  served 99.04%  1666s
+day 16 limit oracle flex   28.15 MWh  DR charge    2.56 MWh  served 100.00%  751s
+day  8 limit oracle flex    4.00 MWh  DR charge   23.18 MWh  served 95.31%  1923s
+day  0 limit r2i    flex    2.65 MWh  DR charge   15.70 MWh  served 98.85%  1397s
+day  0 nolim r2i    flex    2.57 MWh  DR charge   13.81 MWh  served 99.36%  1289s
+day  0 nolim tes    flex    2.57 MWh  DR charge   13.81 MWh  served 99.36%  1385s
+day  8 limit r2i    flex    3.40 MWh  DR charge   23.72 MWh  served 94.92%  1589s
+day 16 limit r2i    flex   25.24 MWh  DR charge    3.61 MWh  served 100.00%  611s
+day  8 nolim r2i    flex    3.72 MWh  DR charge   21.73 MWh  served 95.54%  1649s
+day  8 nolim tes    flex    3.75 MWh  DR charge   21.71 MWh  served 95.57%  1700s
+day 16 nolim r2i    flex   23.94 MWh  DR charge    0.16 MWh  served 100.00%  579s
+day 16 nolim tes    flex   23.81 MWh  DR charge    0.42 MWh  served 100.00%  586s
+day 16 limit trc    flex   26.08 MWh  DR charge    4.63 MWh  served 100.00%  437s
+day  0 limit trc    flex    2.61 MWh  DR charge   15.78 MWh  served 98.85%  902s
+day  8 limit trc    flex    3.41 MWh  DR charge   23.77 MWh  served 94.82%  1072s
+saved results/manhattan_3200.json

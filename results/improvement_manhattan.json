@@ -1,0 +1,278 @@
+[
+ {
+  "day": 0,
+  "start": 50,
+  "policy": "TRC",
+  "flex_kwh": 2731.2165232718094,
+  "dr_charge_kwh": 23038.78173752618,
+  "served": 0.9867149090092391,
+  "wall_s": 1327.7183561325073
+ },
+ {
+  "day": 0,
+  "start": 50,
+  "policy": "eFlx",
+  "flex_kwh": 2992.825833139295,
+  "dr_charge_kwh": 22741.423988187496,
+  "served": 0.9865777634097906,
+  "wall_s": 2124.1734590530396
+ },
+ {
+  "day": 0,
+  "start": 50,
+  "policy": "P-eFlx (normal prior)",
+  "flex_kwh": 2724.3676911683983,
+  "dr_charge_kwh": 23013.309887705094,
+  "served": 0.9867681565033225,
+  "wall_s": 1933.2315096855164
+ },
+ {
+  "day": 0,
+  "start": 50,
+  "policy": "P-eFlx (uniform prior)",
+  "flex_kwh": 2666.943706995952,
+  "dr_charge_kwh": 22827.12177371551,
+  "served": 0.9874629739713697,
+  "wall_s": 1936.366063117981
+ },
+ {
+  "day": 0,
+  "start": 50,
+  "policy": "Oracle",
+  "flex_kwh": 2346.1692581300795,
+  "dr_charge_kwh": 23423.82900266791,
+  "served": 0.988039094050287,
+  "wall_s": 842.5613479614258
+ },
+ {
+  "day": 0,
+  "start": 52,
+  "policy": "TRC",
+  "flex_kwh": 2613.585299822483,
+  "dr_charge_kwh": 15779.241154481906,
+  "served": 0.9884645446346374,
+  "wall_s": 0.0,
+  "reused": true
+ },
+ {
+  "day": 0,
+  "start": 52,
+  "policy": "eFlx",
+  "flex_kwh": 2861.6450216883877,
+  "dr_charge_kwh": 15559.35895768162,
+  "served": 0.9883432916382479,
+  "wall_s": 0.0,
+  "reused": true
+ },
+ {
+  "day": 0,
+  "start": 52,
+  "policy": "P-eFlx (normal prior)",
+  "flex_kwh": 2616.8568774224573,
+  "dr_charge_kwh": 15746.087409777036,
+  "served": 0.9885295382755804,
+  "wall_s": 1072.1126840114594
+ },
+ {
+  "day": 0,
+  "start": 52,
+  "policy": "P-eFlx (uniform prior)",
+  "flex_kwh": 2575.032786346035,
+  "dr_charge_kwh": 15539.063853613381,
+  "served": 0.9891392172135632,
+  "wall_s": 1205.9996650218964
+ },
+ {
+  "day": 0,
+  "start": 52,
+  "policy": "Oracle",
+  "flex_kwh": 3924.1660653482922,
+  "dr_charge_kwh": 14468.660388956097,
+  "served": 0.9903709059296614,
+  "wall_s": 0.0,
+  "reused": true
+ },
+ {
+  "day": 0,
+  "start": 54,
+  "policy": "TRC",
+  "flex_kwh": 2691.3016326333654,
+  "dr_charge_kwh": 18793.046665925227,
+  "served": 0.9895995967670602,
+  "wall_s": 458.89569091796875
+ },
+ {
+  "day": 0,
+  "start": 54,
+  "policy": "eFlx",
+  "flex_kwh": 2926.474048846691,
+  "dr_charge_kwh": 18585.244385486058,
+  "served": 0.9894829056768645,
+  "wall_s": 1576.528820991516
+ },
+ {
+  "day": 0,
+  "start": 54,
+  "policy": "P-eFlx (normal prior)",
+  "flex_kwh": 2655.2769990707484,
+  "dr_charge_kwh": 18811.23491138816,
+  "served": 0.9896507920125246,
+  "wall_s": 1490.3810482025146
+ },
+ {
+  "day": 0,
+  "start": 54,
+  "policy": "P-eFlx (uniform prior)",
+  "flex_kwh": 2599.1065080883377,
+  "dr_charge_kwh": 18616.761466491203,
+  "served": 0.9902067447795426,
+  "wall_s": 1470.7588772773743
+ },
+ {
+  "day": 0,
+  "start": 54,
+  "policy": "Oracle",
+  "flex_kwh": 1384.9539510939958,
+  "dr_charge_kwh": 20099.394347464597,
+  "served": 0.9947141604180626,
+  "wall_s": 958.1898491382599
+ },
+ {
+  "day": 8,
+  "start": 50,
+  "policy": "TRC",
+  "flex_kwh": 8554.946758968463,
+  "dr_charge_kwh": 23865.381943596498,
+  "served": 0.9314002333228105,
+  "wall_s": 519.1080768108368
+ },
+ {
+  "day": 8,
+  "start": 50,
+  "policy": "eFlx",
+  "flex_kwh": 6811.969394283564,
+  "dr_charge_kwh": 25469.5322939694,
+  "served": 0.9395050725775563,
+  "wall_s": 1162.6091389656067
+ },
+ {
+  "day": 8,
+  "start": 50,
+  "policy": "P-eFlx (normal prior)",
+  "flex_kwh": 8957.629581788897,
+  "dr_charge_kwh": 23089.10773855882,
+  "served": 0.9291266520738475,
+  "wall_s": 950.7045941352844
+ },
+ {
+  "day": 8,
+  "start": 50,
+  "policy": "P-eFlx (uniform prior)",
+  "flex_kwh": 7852.205988767057,
+  "dr_charge_kwh": 24124.980474385473,
+  "served": 0.9377854224251949,
+  "wall_s": 1083.502009153366
+ },
+ {
+  "day": 8,
+  "start": 50,
+  "policy": "Oracle",
+  "flex_kwh": 9052.125504759873,
+  "dr_charge_kwh": 23368.203197805087,
+  "served": 0.9255313877185114,
+  "wall_s": 704.307886838913
+ },
+ {
+  "day": 8,
+  "start": 52,
+  "policy": "TRC",
+  "flex_kwh": 3411.6975457936633,
+  "dr_charge_kwh": 23767.579600828038,
+  "served": 0.9481666537790272,
+  "wall_s": 0.0,
+  "reused": true
+ },
+ {
+  "day": 8,
+  "start": 52,
+  "policy": "eFlx",
+  "flex_kwh": 3346.4004162796155,
+  "dr_charge_kwh": 23771.804657924004,
+  "served": 0.9491058633498499,
+  "wall_s": 0.0,
+  "reused": true
+ },
+ {
+  "day": 8,
+  "start": 52,
+  "policy": "P-eFlx (normal prior)",
+  "flex_kwh": 3981.0445708065945,
+  "dr_charge_kwh": 22993.64379309581,
+  "served": 0.9500074350054221,
+  "wall_s": 1476.1925461292267
+ },
+ {
+  "day": 8,
+  "start": 52,
+  "policy": "P-eFlx (uniform prior)",
+  "flex_kwh": 3673.986356504479,
+  "dr_charge_kwh": 23229.688478403037,
+  "served": 0.9505688834774064,
+  "wall_s": 1302.572666168213
+ },
+ {
+  "day": 8,
+  "start": 52,
+  "policy": "Oracle",
+  "flex_kwh": 4000.1899060346004,
+  "dr_charge_kwh": 23179.0872405871,
+  "served": 0.9531469606956456,
+  "wall_s": 0.0,
+  "reused": true
+ },
+ {
+  "day": 8,
+  "start": 54,
+  "policy": "TRC",
+  "flex_kwh": 3633.1270540087426,
+  "dr_charge_kwh": 25073.548378632906,
+  "served": 0.9536928088119505,
+  "wall_s": 613.9942178726196
+ },
+ {
+  "day": 8,
+  "start": 54,
+  "policy": "eFlx",
+  "flex_kwh": 2932.919239292484,
+  "dr_charge_kwh": 25852.964042675412,
+  "served": 0.9536337964284927,
+  "wall_s": 1543.7368080615997
+ },
+ {
+  "day": 8,
+  "start": 54,
+  "policy": "P-eFlx (normal prior)",
+  "flex_kwh": 3719.771369417621,
+  "dr_charge_kwh": 24842.896019868036,
+  "served": 0.9536427495389479,
+  "wall_s": 2786.1899359226227
+ },
+ {
+  "day": 8,
+  "start": 54,
+  "policy": "P-eFlx (uniform prior)",
+  "flex_kwh": 3539.2991926877744,
+  "dr_charge_kwh": 24966.077508558003,
+  "served": 0.9541500950041972,
+  "wall_s": 2937.2289638519287
+ },
+ {
+  "day": 8,
+  "start": 54,
+  "policy": "Oracle",
+  "flex_kwh": 5701.454265029492,
+  "dr_charge_kwh": 23005.22116761216,
+  "served": 0.9543257855983979,
+  "wall_s": 2161.363396167755
+ }
+]
