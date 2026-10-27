@@ -109,7 +109,7 @@ Our first new idea, P-eFlx. eFlx always assumes DR comes in the next slot, which
 
 Our second idea measures the service compromise the paper mentions but never quantifies: during DR, the fleet may serve slightly fewer passengers. On Manhattan, missing about 4% of passengers gives two and a half times the flexibility, from 2.86 to 7.4 megawatt-hours, while eFlx’s provisioning is worth less than 1% of service. This curve is exactly what a grid operator and a taxi company would need to price a DR contract.
 
-## All three (slides 26–27, about 0.7 min)
+## All three (slides 26–27, about 0.9 min)
 
 ### Slide 26: What the paper did, and what we did
 
@@ -121,7 +121,11 @@ Our second idea measures the service compromise the paper mentions but never qua
 
 ### Slide 27: Contribution
 
-Thank you for watching. Our contributions were equal, as shown here, and the code, data and results are all in our GitHub repository.
+**Ghada:** Thank you for watching our evaluation of eFlx. 
+
+**Suraj:** Everything you saw today, the code, the data, the results and the full report, is in our GitHub repository, so you can rerun any experiment yourself. 
+
+**Rishikesh:** We look forward to your questions. Thank you!
 
 ---
-Total: 1865 words, about 13.3 minutes of speech.
+Total: 1887 words, about 13.5 minutes of speech.
