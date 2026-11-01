@@ -14,6 +14,10 @@ results/*_partial.json
 # The paper is copyrighted; link to it instead of redistributing it
 eFlx.pdf
 
+# Video recordings and renders (large; the final .mp4 goes to HelloIITK, not git)
+video/
+videos/
+
 # OS / editor
 .DS_Store
 .idea/
